@@ -14,4 +14,5 @@ let carlosPerruca = {
   challenge: "I am doing the CareerHack Ironhack! I am WIP with my Github profile"
 }
 ```
--[LinkedIn](https://www.linkedin.com/in/carlosperrucaparradobio)
+
+<a href="https://www.linkedin.com/in/carlosperrucaparradobio"><img src="https://user-images.githubusercontent.com/91193904/148817892-ab6b5731-c334-4284-94b2-e4bf7cd9c21c.png" width="5%"></a>
