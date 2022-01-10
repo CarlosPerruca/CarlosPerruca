@@ -1,15 +1,17 @@
-![ghProfileHeadImg](https://user-images.githubusercontent.com/91193904/148813969-f01346ef-79dd-4262-b19c-08bc9947b88f.png)
 
-### HELLO WORLD, I am Carlos Perruca, a newby Web Developer 👋
--[LinkedIn](https://www.linkedin.com/in/carlosperrucaparradobio)
+<h2> HELLO WORLD, I am Carlos Perruca, a newby Web Developer 👋</h2>
+
+<img src ="https://user-images.githubusercontent.com/91193904/148816538-d5de0283-4a42-4c9e-b9b4-0bec62f439df.png" width=110%>
+
 
 ```javascript
 let carlosPerruca = {
   pronouns: "he" | "his",
   country: "Spain",
   frontendDeveloper: True;
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS],">
   tools: [React, Photoshop, Node, Mongoose, Express, MongoDB],
   challenge: "I am doing the CareerHack Ironhack! I am WIP with my Github profile"
 }
 ```
+-[LinkedIn](https://www.linkedin.com/in/carlosperrucaparradobio)
