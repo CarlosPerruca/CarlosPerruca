@@ -5,7 +5,7 @@
 let carlosPerruca = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS],
-  tools: [React, Photoshop, Node, Mongoose, Express, MongoDB,],
+  tools: [React, Photoshop, Node, Mongoose, Express, MongoDB],
   challenge: "I am doing the CareerHack Ironhack!"
 }
 ```
