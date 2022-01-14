@@ -6,7 +6,6 @@
 
 ```javascript
 let carlosPerruca = {
-  pronouns: "he" | "his",
   country: "Spain",
   city: "Madrid"
   ironhackAlumnii: True;
